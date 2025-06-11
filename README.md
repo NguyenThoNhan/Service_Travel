@@ -52,6 +52,10 @@ User có thể tìm kiếm tour, xem thông tin, đăng ký, thanh toán và s�
 Admin có quyền quản lý chatbot, user, tour, giao dịch và tư vấn khách hàng.
 Các use case chính được mô tả chi tiết trong sơ đồ Use Case.
 
+## 🧩 Use Case Diagram
+
+![Use Case Diagram](images/usecase-diagram.png)
+
 b. 🔁 Flow (Activity Flow)
 Sử dụng Activity Diagram để mô tả luồng xử lý đặt tour:
 
