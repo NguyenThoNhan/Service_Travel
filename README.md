@@ -54,7 +54,7 @@ Các use case chính được mô tả chi tiết trong sơ đồ Use Case.
 
 ## 🧩 Use Case Diagram
 
-![Use Case Diagram](images/usecase-diagram.png)
+![Use Case Diagram](images/usecase-diagram.png.png)
 
 b. 🔁 Flow (Activity Flow)
 Sử dụng Activity Diagram để mô tả luồng xử lý đặt tour:
